@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lisnr Yuxi</string>
+    <string name="start_catching_auth">Start Catching Auth</string>
+    <string name="stop_catching_auth">Stop Catching Auth</string>
+    <string name="start_broadcasting_auth">Start Broadcasting Auth</string>
+    <string name="stop_broadcasting_auth">Stop Broadcasting Auth</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enviar">enviar</string>
+    <string name="registrate">registrate!</string>
+    <string name="username">UserName</string>
+</resources>
